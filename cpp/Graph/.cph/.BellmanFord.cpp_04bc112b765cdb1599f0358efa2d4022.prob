@@ -1,0 +1,1 @@
+{"name":"Local: BellmanFord","url":"e:\\personal\\CSES\\cpp\\Graph\\BellmanFord.cpp","tests":[{"id":1685807489245,"input":"5 5\n5 1 -2\n4 5 -2\n3 4 -2\n2 3 -2\n1 2 -2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\personal\\CSES\\cpp\\Graph\\BellmanFord.cpp","group":"local","local":true}

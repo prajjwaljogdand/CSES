@@ -1,0 +1,1 @@
+{"name":"Local: distinct_numbers","url":"c:\\Users\\prajj\\Documents\\CSES\\rust\\sorting_and_searching\\distinct_numbers.rs","tests":[{"id":1657982557571,"input":"5\n1 2 2 2 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\prajj\\Documents\\CSES\\rust\\sorting_and_searching\\distinct_numbers.rs","group":"local","local":true}

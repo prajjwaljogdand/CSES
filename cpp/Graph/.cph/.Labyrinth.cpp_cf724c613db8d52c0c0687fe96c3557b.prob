@@ -1,0 +1,1 @@
+{"name":"Local: Labyrinth","url":"e:\\personal\\CSES\\cpp\\Graph\\Labyrinth.cpp","tests":[{"id":1685727407876,"input":"5 8\n########\n#.A#...#\n#.##.#B#\n#......#\n########","output":"LDDRRRRRU"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\personal\\CSES\\cpp\\Graph\\Labyrinth.cpp","group":"local","local":true}

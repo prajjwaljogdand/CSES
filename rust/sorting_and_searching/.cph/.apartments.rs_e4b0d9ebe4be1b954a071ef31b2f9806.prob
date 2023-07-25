@@ -1,0 +1,1 @@
+{"name":"Local: apartments","url":"c:\\Users\\prajj\\Documents\\CSES\\rust\\sorting_and_searching\\apartments.rs","tests":[{"id":1657985026559,"input":"4 3 5\n60 45 80 60\n30 60 75","output":"1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\prajj\\Documents\\CSES\\rust\\sorting_and_searching\\apartments.rs","group":"local","local":true}
